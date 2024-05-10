@@ -10,4 +10,4 @@
 
  ## 💰 Anda dapat membantu saya dengan berdonasi
 [![BuyMeACoffee](https://static.miraheze.org/jkt48wikiwiki/8/80/Saweria-logo.png)](https://saweria.co/imindev) 
-<a href = ''><img src = ""/></a>
+<img align="right" alt="Coding" width="400" src="https://github.com/Muhaiminasismaneke/Muhaiminasismaneke/blob/main/animated-coding.gif">
